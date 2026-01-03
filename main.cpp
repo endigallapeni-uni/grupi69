@@ -36,6 +36,7 @@ int main() {
         else
             grade = 'F';
 
+
             // Alejna Rexhepi
 cout << "\nStudent Name: " << name << endl;
         cout << "Average Marks: " << average << endl;
