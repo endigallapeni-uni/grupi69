@@ -14,7 +14,7 @@ int main() {
         cin >> name;
 
 
-        Neroni: cout << "Enter marks for subject 1: ";
+        cout << "Enter marks for subject 1: ";
         cin >> marks1;
         cout << "Enter marks for subject 2: ";
         cin >> marks2;
