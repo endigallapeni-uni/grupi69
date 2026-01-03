@@ -37,3 +37,15 @@ int main() {
             grade = 'F';
 
             // Alejna Rexhepi
+cout << "\nStudent Name: " << name << endl;
+        cout << "Average Marks: " << average << endl;
+        cout << "Grade: " << grade << endl;
+
+        cout << "\nDo you want to enter another student? (1 = Yes, 0 = No): ";
+        cin >> choice;
+
+    } while (choice == 1);
+
+    cout << "Program ended.";
+    return 0;
+}
