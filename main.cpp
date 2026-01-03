@@ -22,3 +22,18 @@ int main() {
         cin >> marks3;
 
         average = (marks1 + marks2 + marks3) / 3.0;
+
+        // Arnis Thaçi
+
+         if (average >= 90)
+            grade = 'A';
+        else if (average >= 75)
+            grade = 'B';
+        else if (average >= 60)
+            grade = 'C';
+        else if (average >= 40)
+            grade = 'D';
+        else
+            grade = 'F';
+
+            // Alejna Rexhepi
